@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Profilo Payment Systems (ProPay Payment Technologies)](https://www.linkedin.com/company/propaytr/mycompany/verification/)
 
-- 🌱 I’m currently learning **MicroControllers and Machine Learning &Dee Learning in Python**
+- 🌱 I’m currently learning **MicroControllers and Machine Learning &Deep Learning in Python**
 
 - 💬 Ask me about **C/C++ , C# and Python**
 
