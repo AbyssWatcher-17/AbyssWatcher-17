@@ -4,6 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abysswatcher-17" alt="abysswatcher-17" /></a> </p>
 
 - 🔭 I’m currently working on [Profilo Payment Systems (ProPay Payment Technologies)](https://www.linkedin.com/company/propaytr/mycompany/verification/)
+- 🎓 I’m Graduated from Computer Engineering
+
 
 - 🌱 I’m currently learning **MicroControllers and Machine Learning &Deep Learning in Python**
 
